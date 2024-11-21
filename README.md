@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baized100&label=Profile%20views&color=0e75b6&style=flat" alt="baized100" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baized100" alt="baized100" /></a> </p>
-
+🔭 I’m currently working on As a Machine learing Intern in Mentorness , GO2cod intern
 - 🌱 I’m currently learning **Machine learning**
 
 - 💬 Ask me about **ML**
